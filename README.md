@@ -1,6 +1,6 @@
 # CISSP-CEH   -  Materiales de estudio Certificaciones CISSP y CEH
 
-Materiales de la clase Seguridad de la Informacion, basados en materiales CISSP y CEH.
+Materiales de la clase Seguridad de la Informacion, basados en CISSP y CEH.
 
 Mis canales:
 
